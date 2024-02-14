@@ -1,0 +1,12 @@
+streamlit
+python-dotenv
+langchain==0.1.1 
+langchain-community==0.0.13 
+langchain-core==0.1.11 
+langchain-experimental==0.0.49 
+# langchain-openai==0.0.2.post1 
+langsmith==0.0.80
+tiktoken
+# tiktoken==0.5.2
+# llm_cost_estimation==0.1.6
+llm_cost_estimation
