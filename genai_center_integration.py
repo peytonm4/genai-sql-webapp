@@ -6,8 +6,8 @@ from get_resources_analysis import token_analysis
 
 class GenAICenterLLM:
     # Set the url to access the GenAI Center LLM, with the endpoint being a specific function we want the LLM to achieve
-    base_url = "https://genaicenterapim.deloitte.com/openai-api"
-    endpoint = "/chat/completions"
+    base_url = "change this url"
+    endpoint = "change this endpoint"
 
     # Initialize the class by defining it with the api_key and model strings passed in when it is being invoked
     def __init__(self, model: str, api_key: str):
